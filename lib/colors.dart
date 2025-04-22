@@ -1,0 +1,22 @@
+import 'package:flutter/cupertino.dart';
+
+const orangeColor = CupertinoColors.activeOrange;
+const blueColor = Color.fromARGB(255, 4, 89, 218);
+const redColor = Color.fromARGB(255, 200, 42, 60);
+const efeColor = Color.fromARGB(190, 192, 169, 208);
+const firstPalette = [Color.fromARGB(255, 193,255,242), Color.fromARGB(255, 186,255,223), Color.fromARGB(255, 178,237,197), Color.fromARGB(255, 157,192,188), Color.fromARGB(255, 2124,114,135)];
+const firstPalette1 = Color.fromARGB(255, 193,255,242);
+const firstPalette2 = Color.fromARGB(255, 186,255,223);
+const firstPalette3 = Color.fromARGB(255, 178,237,197);
+const firstPalette4 = Color.fromARGB(255, 157,192,188);
+const firstPalette5 = Color.fromARGB(255, 2124,114,135);
+const secondPalette1 = Color.fromARGB(255, 108,105,141);
+const secondPalette2 = Color.fromARGB(255, 212,210,213);
+const secondPalette3 = Color.fromARGB(255, 191,175,166);
+const secondPalette4 = Color.fromARGB(255, 170,150,138);
+const secondPalette5 = Color.fromARGB(255, 110,106,111);
+const thirdPalette1 = Color.fromARGB(255, 217,219,241);
+const thirdPalette2 = Color.fromARGB(255, 208,205,215);
+const thirdPalette3 = Color.fromARGB(255, 172,176,189);
+const thirdPalette4 = Color.fromARGB(255, 65,97,101);
+const thirdPalette5 = Color.fromARGB(255, 11,57,72);
